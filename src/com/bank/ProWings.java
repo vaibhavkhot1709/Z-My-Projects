@@ -32,6 +32,16 @@ public class ProWings {
 			T_remFee = remFee - rightpaid;
 			System.out.println("still remaining fee of Shree is " + T_remFee);
 			break;
+			
+		case 3:
+			System.out.println("Rushi");
+//			 totalfee=50000;
+
+			System.out.println("enter amount which you pay now");
+			rightpaid = sc.nextInt();
+			T_remFee = remFee - rightpaid;
+			System.out.println("still remaining fee of Rushi is " + T_remFee);
+			break;
 		}
 
 	}
