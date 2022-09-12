@@ -17,7 +17,7 @@ public class ProWings {
 			System.out.println("Vaibhav Khot");
 //			 totalfee=50000;
 
-			System.out.println("enter amount which you pay now");
+			System.out.println("enter amount which Vaibhav pay now");
 			rightpaid = sc.nextInt();
 			T_remFee = remFee - rightpaid;
 			System.out.println("still remaining fee of Vaibhav is " + T_remFee);
@@ -27,7 +27,7 @@ public class ProWings {
 			System.out.println("Shree");
 //			 totalfee=50000;
 
-			System.out.println("enter amount which you pay now");
+			System.out.println("enter amount which Shree pay now");
 			rightpaid = sc.nextInt();
 			T_remFee = remFee - rightpaid;
 			System.out.println("still remaining fee of Shree is " + T_remFee);
@@ -37,7 +37,7 @@ public class ProWings {
 			System.out.println("Rushi");
 //			 totalfee=50000;
 
-			System.out.println("enter amount which you pay now");
+			System.out.println("enter amount which Rushi pay now");
 			rightpaid = sc.nextInt();
 			T_remFee = remFee - rightpaid;
 			System.out.println("still remaining fee of Rushi is " + T_remFee);
